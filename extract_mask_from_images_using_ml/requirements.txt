@@ -6,7 +6,7 @@ click==7.1.2
 cycler==0.10.0
 decorator==4.4.2
 dill==0.3.2
-Django==3.0.8
+Django==3.1.6
 Flask==1.0
 gast==0.3.3
 google-pasta==0.2.0
