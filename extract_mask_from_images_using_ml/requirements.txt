@@ -28,7 +28,7 @@ MarkupSafe==1.1.1
 matplotlib==3.3.0
 mrcnn==0.2
 networkx==2.4
-numpy==1.19.1
+numpy==1.22.0
 opencv-python==4.3.0.36
 Pillow==7.2.0
 pox==0.2.8
