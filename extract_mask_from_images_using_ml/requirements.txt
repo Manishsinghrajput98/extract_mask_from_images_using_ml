@@ -12,7 +12,7 @@ gast==0.3.3
 google-pasta==0.2.0
 grpcio==1.30.0
 h5py==2.10.0
-html5lib==0.9999999
+html5lib==0.999999999
 image==1.5.32
 imageio==2.9.0
 importlib-metadata==1.7.0
