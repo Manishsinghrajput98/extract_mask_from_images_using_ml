@@ -30,7 +30,7 @@ mrcnn==0.2
 networkx==2.4
 numpy==1.19.1
 opencv-python==4.3.0.36
-Pillow==7.2.0
+Pillow==9.3.0
 pox==0.2.8
 protobuf==3.12.2
 pykakasi==2.0.1
